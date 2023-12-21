@@ -61,6 +61,12 @@ build CMakeFiles/SIJZ_Igrica.dir/NasumicniBroj.cpp.obj: CXX_COMPILER__SIJZ_Igric
   OBJECT_DIR = CMakeFiles\SIJZ_Igrica.dir
   OBJECT_FILE_DIR = CMakeFiles\SIJZ_Igrica.dir
 
+build CMakeFiles/SIJZ_Igrica.dir/Igrac.cpp.obj: CXX_COMPILER__SIJZ_Igrica_unscanned_Debug C$:/Users/Amila$ Huzbasic/CLionProjects/SIJZ$ Igrica/Igrac.cpp || cmake_object_order_depends_target_SIJZ_Igrica
+  DEP_FILE = CMakeFiles\SIJZ_Igrica.dir\Igrac.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\SIJZ_Igrica.dir
+  OBJECT_FILE_DIR = CMakeFiles\SIJZ_Igrica.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SIJZ_Igrica
@@ -69,7 +75,7 @@ build CMakeFiles/SIJZ_Igrica.dir/NasumicniBroj.cpp.obj: CXX_COMPILER__SIJZ_Igric
 #############################################
 # Link the executable SIJZ_Igrica.exe
 
-build SIJZ_Igrica.exe: CXX_EXECUTABLE_LINKER__SIJZ_Igrica_Debug CMakeFiles/SIJZ_Igrica.dir/main.cpp.obj CMakeFiles/SIJZ_Igrica.dir/NasumicniBroj.cpp.obj
+build SIJZ_Igrica.exe: CXX_EXECUTABLE_LINKER__SIJZ_Igrica_Debug CMakeFiles/SIJZ_Igrica.dir/main.cpp.obj CMakeFiles/SIJZ_Igrica.dir/NasumicniBroj.cpp.obj CMakeFiles/SIJZ_Igrica.dir/Igrac.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\SIJZ_Igrica.dir

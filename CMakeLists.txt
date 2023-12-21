@@ -5,4 +5,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(SIJZ_Igrica main.cpp
         NasumicniBroj.h
-        NasumicniBroj.cpp)
+        NasumicniBroj.cpp
+        Igrac.h
+        Igrac.h
+        Igrac.cpp
+        Igrac.cpp)
