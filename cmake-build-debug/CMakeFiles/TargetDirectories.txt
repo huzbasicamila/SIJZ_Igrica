@@ -1,0 +1,3 @@
+C:/Users/Amila Huzbasic/CLionProjects/SIJZ Igrica/cmake-build-debug/CMakeFiles/SIJZ_Igrica.dir
+C:/Users/Amila Huzbasic/CLionProjects/SIJZ Igrica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amila Huzbasic/CLionProjects/SIJZ Igrica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
