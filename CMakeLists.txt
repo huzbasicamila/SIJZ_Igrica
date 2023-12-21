@@ -9,4 +9,6 @@ add_executable(SIJZ_Igrica main.cpp
         Igrac.h
         Igrac.h
         Igrac.cpp
-        Igrac.cpp)
+        Igrac.cpp
+        Igra.cpp
+        Igra.h)
